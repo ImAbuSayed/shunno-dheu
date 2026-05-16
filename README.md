@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shunno-dheu/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Shunno Dheu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shunno-dheu/) |
+| **Get License** | [Obtain a Music License for Shunno Dheu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shunno-dheu/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `38f3561845e4ddc75c4a12e0f6de9374543cd1caa707556e52c7b30af1ac646b` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

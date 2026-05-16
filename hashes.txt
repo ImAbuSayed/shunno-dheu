@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shunno Dheu
+
+This log tracks the cryptographic history and versioning for the song **Shunno Dheu** (shunno-dheu).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T06:37:26.021941 | `v1` | `38f3561845e4ddc75c4a12e0f6de9374543cd1caa707556e52c7b30af1ac646b` | `df467b2a54a265730a4a3b6f967346fb37b18ac0b04fad9908a2fa5b20124e80` | `2026-05-16_shunno-dheu-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
