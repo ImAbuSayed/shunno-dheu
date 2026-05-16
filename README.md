@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shunno-dheu/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Shunno Dheu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shunno-dheu/) |
+| **Get License** | [Secure Licensing Rights for Shunno Dheu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shunno-dheu/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> শূন্য এই নদীর তীরে খুঁজি আমি তোমার ছায়া
+> বুকের ভেতর জমতে থাকে অচেনা এক মায়া
+> হারিয়ে যায় রাতের আঁধারে আমার সব আবেগ
+> দু'চোখ জুড়ে আজ শুধুই অভিমানের মেঘ
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
